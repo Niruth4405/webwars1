@@ -6,11 +6,11 @@ function Navbar() {
       <nav class="bg-white shadow bg-gradient-to-r from-indigo-500 from-10% via-sky-500 via-30% to-emerald-500 to-90%">
         <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
           <a href="#" class="flex items-center space-x-3 rtl:space-x-reverse">
-            <img
+            {/* <img
               src="https://flowbite.com/docs/images/logo.svg"
               class="h-8"
               alt="Flowbite Logo"
-            />
+            /> */}
             <span class="self-center text-2xl font-semibold whitespace-nowrap text-white">
               StudyBuddy
             </span>
