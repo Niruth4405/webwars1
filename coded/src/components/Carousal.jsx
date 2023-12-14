@@ -3,7 +3,7 @@ import React from "react";
 function Carousal() {
   return (
     <>
-      <div id="default-carousel" class="relative w-full" data-carousel="slide">
+      {/* <div id="default-carousel" class="relative w-full" data-carousel="slide">
       
         <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
         
@@ -133,6 +133,9 @@ function Carousal() {
             <span class="sr-only">Next</span>
           </span>
         </button>
+      </div> */}
+      <div className="w-screen h=[300px] mt-[65px]]">
+      <img src="../public/ProductivityOne.png"/>
       </div>
     </>
   );
