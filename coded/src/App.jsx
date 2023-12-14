@@ -1,14 +1,13 @@
-import { useState } from 'react'
-import './App.css'
-import Home from '../src/HomePage/Home'
-
+import "./App.css";
+import Planner from './Productivity/Planner/Planner.jsx';
+import "./index.css"
 function App() {
 
   return (
     <>
-      <Home/>
+    <Planner/>
     </>
-  )
+  );
 }
 
 export default App
