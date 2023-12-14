@@ -57,7 +57,7 @@ function About() {
             <div class="flex flex-col items-center pb-10">
               <img
                 class="w-24 h-24 mb-3 rounded-full shadow-lg"
-                src="niruth_photo.jpg"
+                src="../public/NiruthNew.png"
                 alt=""
               />
               <h5 class="mb-1 text-xl font-medium text-white dark:text-white">
@@ -123,11 +123,11 @@ function About() {
             <div class="flex flex-col items-center pb-10">
               <img
                 class="w-24 h-24 mb-3 rounded-full shadow-lg"
-                src="/docs/images/people/profile-picture-3.jpg"
+                src="../public/Adi.png"
                 alt=""
               />
               <h5 class="mb-1 text-xl font-medium text-white dark:text-white">
-                Manavaditya
+                Manvaditya Jadeja
               </h5>
               <span class="text-sm text-gray-500 dark:text-gray-400">
                 Front-end developer

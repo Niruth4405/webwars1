@@ -11,7 +11,8 @@ function Home() {
     <Carousal/>
     <Faq/>
     <About/>
-    <Blogging/>
+    <br/>
+    <br/>
     </>
   );
 }

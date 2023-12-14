@@ -7,6 +7,7 @@ import Header from '../components/Header';
 
 const Planner = () => {
   const [notes, setNotes] = useState([
+  
     {
       id: nanoid(),
       text: 'This is my new note!',

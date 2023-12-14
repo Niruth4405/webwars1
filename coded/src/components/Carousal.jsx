@@ -9,7 +9,7 @@ function Carousal() {
           {/* <!-- Item 1 --> */}
           <div class="hidden duration-700 ease-in-out" data-carousel-item>
             <img
-              src="study.jpg"
+              src="/public/ProductivityOne.png"
               class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               alt="..."
             />
@@ -17,7 +17,7 @@ function Carousal() {
           {/* <!-- Item 2 --> */}
           <div class="hidden duration-700 ease-in-out" data-carousel-item>
             <img
-              src="./Notes.jpg"
+              src="/public/Notes.png"
               class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               alt="..."
             />
@@ -25,7 +25,7 @@ function Carousal() {
           {/* <!-- Item 3 --> */}
           <div class="hidden duration-700 ease-in-out" data-carousel-item>
             <img
-              src="productivity.jpg"
+              src="/public/sproductivity.jpg"
               class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               alt="..."
             />
@@ -33,7 +33,7 @@ function Carousal() {
           {/* <!-- Item 4 --> */}
           <div class="hidden duration-700 ease-in-out" data-carousel-item>
             <img
-              src=""
+              src="/public/Adi.png"
               class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               alt="..."
             />
