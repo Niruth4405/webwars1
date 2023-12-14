@@ -1,14 +1,17 @@
 import React from 'react'
-import "../components/About"
-import "../components/Carousal"
-import "../components/Faq"
+import About from "../components/About"
+import Carousal from "../components/Carousal"
+import Faq from "../components/Faq"
+import Blogging from '../Blogging/Blogging';
 
 function Home() {
   return (
     <>
+   
     <Carousal/>
     <Faq/>
     <About/>
+    <Blogging/>
     </>
   );
 }
