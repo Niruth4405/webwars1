@@ -1,11 +1,12 @@
-import "./App.css";
-import Planner from './Productivity/Planner/Planner.jsx';
-import "./index.css"
+import { useState } from 'react'
+import './App.css'
+import "../src/MainPage/Jumbo"
+
 function App() {
 
   return (
     <>
-    <Planner/>
+      <Home/>
     </>
   );
 }

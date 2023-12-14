@@ -1,11 +1,16 @@
 import React from 'react'
-import Navbar from "../components/Navbar"
-
+import "../components/About"
+import "../components/Carousal"
+import "../components/Faq"
 
 function Home() {
   return (
-    <Navbar/>
-  )
+    <>
+    <Carousal/>
+    <Faq/>
+    <About/>
+    </>
+  );
 }
 
 export default Home
