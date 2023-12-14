@@ -7,7 +7,6 @@ import Blogging from '../Blogging/Blogging';
 function Home() {
   return (
     <>
-   
     <Carousal/>
     <Faq/>
     <About/>

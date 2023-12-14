@@ -19,7 +19,7 @@ function Blogging() {
               learning potential and achieve academic success effortlessly.
             </p>
             <a
-              href="#"
+              href="https://docs.google.com/document/d/16-My2Noq1d8QWr7EFTBArrjLyAc1f1tGUoJbzJkOdPU/edit"
               class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
             >
               Read more
@@ -56,7 +56,7 @@ function Blogging() {
               success. Dive into distraction-free productivity today!"
             </p>
             <a
-              href="#"
+              href="https://docs.google.com/document/d/1IAPeyglklgkDLESIs28kXc5yttPIA1Md7mGy4KJOQaI/edit"
               class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
             >
               Read more
